@@ -2,3 +2,7 @@
   text-decoration: none;
   color: #fff;
 }
+
+.footer__column-link:hover {
+  color: #808080;
+}

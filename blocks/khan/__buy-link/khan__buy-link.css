@@ -4,8 +4,9 @@
   font-size: 30px;
   line-height: 42px;
   font-weight: normal;
+  align-self: flex-start;
 }
 
-.khan__buy_link:hover {
+.khan__buy-link:hover {
   color: #808080;
 }
