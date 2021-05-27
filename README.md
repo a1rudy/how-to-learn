@@ -23,7 +23,7 @@
 ------
 
 ### Инструкция по развертыванию проекта:
-1. В [Git BASH](https://gitforwindows.org/) (терминале) клонируйте репозиторий в корневую папку командой: `git clone https://a1rudy.github.io/how-to-learn`
+1. В [Git BASH](https://gitforwindows.org/) (терминале) клонируйте репозиторий в корневую папку командой: `git clone https://github.com/a1rudy/how-to-learn`
 2. Откройте файл `index.html` в любом браузере.
 
 Альтернативный способ:
